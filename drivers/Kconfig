@@ -180,4 +180,6 @@ source "drivers/htc_debug/stability/Kconfig"
 
 source "drivers/android/Kconfig"
 
+source "drivers/tanvas/Kconfig"
+
 endmenu
